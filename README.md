@@ -11,7 +11,7 @@ Sou um entusiasta de tecnologia e programação, sempre em busca de aprendizado 
 *   🌱 Estou buscando conhecimentos em Python e JS.
 *   👯 Busco colaborar em projetos open-source e voltados para educação.
 *   🤔 Preciso de ajuda de como ingressar nos projetos de Educação.
-*   📫 Como me encontrar: Acesse meu [Instagram](https://instagram.com/netodrone).
+*   📫 Como me encontrar: Acesse ao meu [Instagram](https://instagram.com/netodrone).
 *   ⚡ Curiosidade: Sou curioso, gosto de aprender e entender um pouco de tudo.
 *   🌍 Moro em Barretos/SP.
 
