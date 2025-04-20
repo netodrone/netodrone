@@ -2,8 +2,7 @@
 
 ## Olá, Devs! Bem-vindos ao meu perfil GitHub! 😄
 
-Sou um entusiasta de tecnologia e programação, sempre buscando aprender e aprimorar minhas habilidades. Atualmente estou [fale sobre o que você está trabalhando/estudando, ex: focado em desenvolvimento web / estudando Cloud / etc.].
-
+Sou um entusiasta de tecnologia e programação, sempre em busca de aprendizado e aprimoramento. Com minha experiência de 14 anos atuando em um colégio particular, meu foco atual é desenvolver projetos voltados para a educação, buscando criar soluções que impactem positivamente o aprendizado das crianças.
 ---
 
 ### 🚀 Sobre Mim
@@ -12,7 +11,7 @@ Sou um entusiasta de tecnologia e programação, sempre buscando aprender e apri
 *   🌱 Estou buscando conhecimentos em Python e JS.
 *   👯 Busco colaborar em projetos open-source e voltados para educação.
 *   🤔 Preciso de ajuda de como ingressar nos projetos de Educação.
-*   📫 Como me encontrar: Acesse meu Instagram [https://instagram.com/netodrone]
+*   📫 Como me encontrar: Acesse meu [Instagram] (https://instagram.com/netodrone).
 *   ⚡ Curiosidade: Sou curioso, gosto de aprender e entender um pouco de tudo.
 *   🌍 Moro em Barretos/SP.
 
