@@ -67,13 +67,4 @@ Você pode me encontrar nas seguintes plataformas:
 
 ---
 
-### 🐍 Snake Game
-
-<!-- Adicione a animação Snake aqui. Você precisa configurar uma GitHub Action no seu repositório de perfil (repositório com o mesmo nome do seu usuário) para gerar a imagem. -->
-<!-- Veja mais em: https://github.com/platane/platane -->
-![Snake animation](https://github.com/netodrone/netodrone/blob/output/github-contribution-grid-snake.svg)
-
-
----
-
 *Não hesite em explorar meus repositórios e entrar em contato!* 😊 
